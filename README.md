@@ -1057,6 +1057,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
 - [Stikked](https://github.com/claudehohl/Stikked) - Advanced and beautiful pastebin. ([Demo](https://paste.scratchbook.ch/)) `GPL-3.0` `PHP`
 - [Sup3rS3cretMes5age](https://github.com/algolia/sup3rS3cretMes5age) - Very simple (to deploy and to use) secret message service using Hashicorp Vault as a secrets storage. `MIT` `Go`
 - [tastebin](https://github.com/andreineculau/tastebin) - Updated version of hastebin plus additional features. `Apache-2.0` `Nodejs`
+- [bin](https://github.com/w4/bin) - a paste bin. `WTFPL/0BSD` `Rust`
 
 ## Personal Dashboards
 
